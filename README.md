@@ -18,3 +18,8 @@
 ## Every frameworks I know
 * Flutter (Dart)
 * Phaser (JavaScript)
+
+## Which languages I would like to learn
+* C#
+* Rust
+* Go
