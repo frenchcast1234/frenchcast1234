@@ -7,7 +7,6 @@
 * Typescript
 * GD script
 * Dart
-* Java
 * Lua
 * SVG
 * JSON
