@@ -13,13 +13,13 @@
 * Bash
 * Python
 * Markdown
-* A little bit C++, Java and C
+* Rust
+* C#
+* Go
+* C++
+* Java
+* C
 
 ## Every frameworks I know
 * Flutter (Dart)
 * Phaser (JavaScript)
-
-## Which languages I would like to learn
-* C#
-* Rust
-* Go
