@@ -2,23 +2,25 @@
 
 [https://frenchcast1234.github.io](https://frenchcast1234.github.io "Click !")
 
-## Every languages I know
+## Good at
 * HTML/CSS/JavaScript
 * Typescript
 * GD script
 * Dart
 * Lua
-* SVG
 * JSON
-* Bash
 * Python
 * Markdown
+
+* ## Know the basics
+* SVG
 * Rust
 * C#
 * Go
 * C++
 * Java
 * C
+* Bash
 
 ## Every frameworks I know
 * Flutter (Dart)
