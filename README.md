@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C<br>🎯 Goals: Having at least 10 PR/issues<br>🎲 Fun fact: I am french</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C<br>🎯 Goals: Having at least 10 PR/issues (2/10)<br>🎲 Fun fact: I am french</p>
 
 ###
 
