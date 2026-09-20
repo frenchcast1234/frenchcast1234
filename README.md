@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is frenchcast1234 and I'm a human, from France.</p>
+<p data-importer="text" align="left">My name is frenchcast1234 and I'm a random guy, from France.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust<br>🎯 Goals: Having a project with a few stars.<br>🎲 Fun fact: I am french</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Golang<br>🎯 Goals: Having a project with a few stars.<br>🎲 Fun fact: I am french</p>
 
 ###
 
