@@ -51,15 +51,3 @@
 </div>
 
 ###
-
-<h2 data-importer="text" align="left">My social media</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://discord.com/users/1164626980629643334" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
