@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Go<br>🎯 Goals: Having a project with a few stars<br>🎲 Fun fact: I don't have a fun fact</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C<br>🎯 Goals: Having a project with a few stars<br>🎲 Fun fact: I don't have a fun fact</p>
 
 ###
 
